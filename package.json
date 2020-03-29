@@ -1,0 +1,15 @@
+{
+  "name": "covid-19-notifier",
+  "version": "1.0.0",
+  "description": "COVID-19 notifier",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Temnov Aleksey",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cron": "^1.8.2",
+    "node-notifier": "^6.0.0"
+  }
+}
